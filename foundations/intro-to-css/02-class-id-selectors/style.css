@@ -1,0 +1,19 @@
+.basic {
+  background-color: rgb(223, 161, 62);
+  font-family: verdana, dejaVu, ans-serif;
+}
+
+#no-2 {
+  color: rgb(45, 170, 212);
+  font-size: 36px;
+}
+
+.no-3 {
+  font-size: 24px;
+}
+
+#no-4 {
+  background-color: rgb(104, 216, 82);
+  font-size: 24px;
+  font-weight: bold;
+}
