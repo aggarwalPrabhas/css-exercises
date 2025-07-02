@@ -1,12 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background: #eee;
   font-family: sans-serif;
 }
 
 .card {
-  width: 400px;
+  width: 50vw;
   background: #fff;
   margin: 16px auto;
+  padding: 1rem;
 }
 
 .title {
@@ -15,13 +20,25 @@ body {
 
 .content {
   background: #e3f4ff;
+  margin-bottom: 1rem;
+  padding: 2rem;
+  font-size: 25px;
 }
 
 .button-container {
   background: #e3f4ff;
+  padding: 2rem;
+  /* width: 688px;
+  margin: 0 auto; */
+  text-align: center;
+  font-size: 2rem;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  margin: 0 auto;
+  font-size: 2rem;
+  padding: 10px;
 }
